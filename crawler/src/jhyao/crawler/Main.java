@@ -3,7 +3,6 @@ package jhyao.crawler;
 import java.io.IOException;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.sql.Statement;
 import java.util.HashSet;
 import java.util.Set;
 
